@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica11</string>
+    <string name="datos_del_usuario">Datos del usuario</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="edad">Edad</string>
+    <string name="guardar">Guardar</string>
+</resources>
